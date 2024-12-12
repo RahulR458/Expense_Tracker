@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/upwork.png",
+    "name": "Upwork",
+    "price": 850.00,
+    "date": "2024-12-10",
+    "expense": false,
+    "income": true
+  },
+  {
+    "id": 2,
+    "image": "/assets/women.png",
+    "name": "Transfer",
+    "price": 85.00,
+    "date": "2024-12-11",
+    "expense": true,
+    "income": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/Paypal_logo.webp",
+    "name": "Paypal",
+    "price": 1406.00,
+    "date": "2024-12-12",
+    "expense": false,
+    "income": true
+  },
+  {
+    "id": 4,
+    "image": "/assets/YouTube.webp",
+    "name": "Youtube",
+    "price": 11.99,
+    "date": "2024-12-12",
+    "expense": true,
+    "income": false
+  }
+]
