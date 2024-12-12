@@ -49,5 +49,7 @@ Ensure you have the following installed:
 
 4. **Open in the browser**:
    Visit [http://localhost:5173/] to use the application.
+   Visit http://localhost:5173/login to view login page.
+   Visit http://localhost:5173/signup to view signup page.
 
 
